@@ -1,5 +1,5 @@
 {
-    "max_convert_tasks":1,
+    "max_convert_tasks":3,
     "max_file_size":10,
     "pdf_path": "./pdfs"
 }
