@@ -1,7 +1,7 @@
 {
     "apps": {
         "name": "word to pdf",
-        "script": "./bin/www",
+        "script": "npm start",
         "cwd": "./",
         "args": "",
         "interpreter": "",
